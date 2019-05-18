@@ -40,20 +40,14 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 
 # 一键安装&升级面板
 
->以下两条命令皆可，两者是一样的，只需要运行一个，如果其中一个有错误，可以运行另外一个。
 
 >请务必使用 root 用户运行！
-```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://blog.sprov.xyz/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
-```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/sprov065/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/forjustice/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 
 # Telegram 群组
 https://t.me/sprov_blog
 
-# Telegram 频道
-https://t.me/sprov_channel
