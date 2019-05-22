@@ -50,6 +50,10 @@ yum install git
 git clone https://github.com/forjustice/sprov-ui
 cd sprov-ui
 bash install.sh
+
+安装完成后使用
+bash /root/sprov-ui/sprov-ui.sh && chmod +x /usr/bin/sprov-ui
+进行管理
 ```
 
 # Telegram 群组
